@@ -1,4 +1,4 @@
-# Airline-Website
+# Airline Booking Website
 
 Due to this project being a college project, I cannot share the code.
 However this projects code was developed entirely by me and my partner. I was responsible for the frontend and backend mostly, and he was responsible for the designs, but he also did some backend work.
