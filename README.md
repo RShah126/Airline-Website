@@ -9,7 +9,7 @@ However this projects code was developed entirely by me and my partner. I was re
 * Having account features such as account deletion, changing password, etc.
 * Changing your flight.
 
-### Technologies Used:
+### Programming Languages and Technologies Used:
 -HTML, CSS, JavaScript, PHP, SQL, MySQL
 
 
