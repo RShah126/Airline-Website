@@ -17,4 +17,4 @@ However this projects code was developed entirely by me and my partner. I was re
 Due to time constraints, we did not get to fully add every single feature we thought of, but we tried our best and added our best feature the "ticket system", and this allowed for booking for tickets for various destinations and what not. This included all of our details that would normally be on a ticket.
 
 ### Video of the project:
-https://streamable.com/clqwux
+https://youtu.be/En4RlBsOaP0
