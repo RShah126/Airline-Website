@@ -1,4 +1,4 @@
-  body{
+body{
     background-color: white;
   }
   ul {
@@ -10,25 +10,33 @@
   li {
       float: left;
   }
-    
+
   li a {
       display: block;
-      color: aqua;
-      padding: 35px;
+      color: black;
+      padding: 20px;
+      font-family: verdana;
+      text-decoration: none;
+
     }
   
   
   li a:hover{
-      background-color: blue;
-    }
+      background-color: aqua;
+  }
   
+  .logoutdesign {
+    background-size: cover;
+      background-image: url('b.png');
+      background-repeat: no-repeat;
+  }
   
   .bg_home {
       background-image: url('a.png');
       background-repeat: no-repeat;
   }
   
-  h1 {
+  h2 {
       color: white;
       
   }
@@ -36,4 +44,11 @@
   p {
       font-family: verdana;
       font-size: 20px;
+  }
+  .about {
+    color: white;
+  }
+
+  .about1 {
+    color: white;
   }
