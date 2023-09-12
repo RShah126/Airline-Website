@@ -1,5 +1,5 @@
 # Airline Booking Website
-This projects code was developed entirely by me and my partner with some online help. I was responsible for the frontend and backend mostly, and he was responsible for the designs, but he also did some backend work.
+This was a project we chose to do ourselves, but it was also a requirement for the courses completion. This projects code was developed entirely by me and my partner with some online help. I was responsible for the frontend and backend mostly, and he was responsible for the designs, but he also did some backend work. Since everybody made a different project within the classroom, I can share the source code. Even though the college class required us to do a project of our choice related to web development, I still considered it a personal-development of my own skills.
 
 ### Important Features that me and my partner thought of:
 * Implementing tickets, this way we could book and the ticket and it'd show us our seat, flight number, etc and what not thats normally represented on a ticket.
