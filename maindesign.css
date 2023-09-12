@@ -1,0 +1,39 @@
+  body{
+    background-color: white;
+  }
+  ul {
+      list-style-type: none;
+      background-color: white;
+      overflow: auto;
+    }
+    
+  li {
+      float: left;
+  }
+    
+  li a {
+      display: block;
+      color: aqua;
+      padding: 35px;
+    }
+  
+  
+  li a:hover{
+      background-color: blue;
+    }
+  
+  
+  .bg_home {
+      background-image: url('a.png');
+      background-repeat: no-repeat;
+  }
+  
+  h1 {
+      color: white;
+      
+  }
+  
+  p {
+      font-family: verdana;
+      font-size: 20px;
+  }
